@@ -272,7 +272,7 @@ function Dashboard({ tasks, mealPlan, recipes }) {
     <div style={{ paddingBottom: 32 }}>
       <div style={{ marginBottom: 20 }}>
         <p style={{ margin: 0, fontSize: 13, color: "#A8A8B3", fontWeight: 600, textTransform: "capitalize" }}>{dateStr}</p>
-        <h1 style={{ margin: "4px 0 0", fontSize: 28, fontWeight: 900, color: "#1a1a2e", letterSpacing: -0.5 }}>Buenos días ☀️</h1>
+        <h1 style={{ margin: "4px 0 0", fontSize: 28, fontWeight: 900, color: "#1a1a2e", letterSpacing: -0.5 }}>Hola, Claudia</h1>
       </div>
 
       {/* Progress */}
@@ -799,7 +799,7 @@ export default function App() {
       {/* Top bar */}
       <div style={{ background: "#fff", borderBottom: "1px solid #F0F0F5", padding: "16px 20px 14px", display: "flex", justifyContent: "space-between", alignItems: "center", position: "sticky", top: 0, zIndex: 50 }}>
         <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
-          <div style={{ width: 32, height: 32, borderRadius: 10, background: "linear-gradient(135deg, #748FFC, #9775FA)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 18 }}>⚡</div>
+          <div style={{ width: 32, height: 32, borderRadius: 10, background: "linear-gradient(135deg, #748FFC, #9775FA)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 18 }}>改</div>
           <span style={{ fontWeight: 900, fontSize: 20, color: "#1a1a2e", letterSpacing: -0.5 }}>Kaizen</span>
         </div>
       </div>
