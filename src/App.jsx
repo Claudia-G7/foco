@@ -800,7 +800,7 @@ export default function App() {
       <div style={{ background: "#fff", borderBottom: "1px solid #F0F0F5", padding: "16px 20px 14px", display: "flex", justifyContent: "space-between", alignItems: "center", position: "sticky", top: 0, zIndex: 50 }}>
         <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
           <div style={{ width: 32, height: 32, borderRadius: 10, background: "linear-gradient(135deg, #748FFC, #9775FA)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 18 }}>⚡</div>
-          <span style={{ fontWeight: 900, fontSize: 20, color: "#1a1a2e", letterSpacing: -0.5 }}>Mi Espacio</span>
+          <span style={{ fontWeight: 900, fontSize: 20, color: "#1a1a2e", letterSpacing: -0.5 }}>Kaizen</span>
         </div>
       </div>
 
