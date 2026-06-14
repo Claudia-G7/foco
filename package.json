@@ -2,8 +2,8 @@
   "name": "foco",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "build": "npx vite build",
+    "dev": "npx vite"
   },
   "dependencies": {
     "react": "^18.2.0",
